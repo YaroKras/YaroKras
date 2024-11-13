@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YaroKras
+- 👋 Hi, I’m Yaroslav
 - 👀 I’m interested in php and C#
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
